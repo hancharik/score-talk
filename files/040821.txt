@@ -1,0 +1,1111 @@
+
+Hello, MARK HANCHARIK a.k.a. hancharik. 
+Home
+Daily Logs
+New Log
+My Daily Logs
+Exams
+Current Exam
+Past Exams
+Project Uploads
+Upload Programming Assignment
+Results
+
+Tournament results
+
+Time: 2016-04-08 21:02
+###########################
+
+
+TOURNAMENT
+Sheep teams:
+SleepySheepy: kevinbaik fuhrmeister nicewonger macdonald 
+Greener Pastures: zhang1 antonio 
+Sheeper Troopers: iSheep lastplace wumbo thestraysheep 
+TeamWolfAnnihilation();: aStricker mihir1 lobsterfest shearluck 
+Woolly Bullies: (myu5026) lammibalLector battleram schott 
+House of Sheep: sheepman dkhouri1 jennings 
+Romulus' Pack: fiftydaysofpmn steverohan10 (iluvjenkem) broscar 
+Sheep squad: becerra michaeltom chamberlain 
+DieWolfDie!: guan song zhang 
+Sheep Thrills: alexRajka robert rashid peron 
+ClassicSheep: derhammer chin dodds basic 
+Wolf teams:
+WolfPack: javathehutt leososcar gildea rickyBobby 
+Remus' Pack: ziab godin wilyecoyote 
+Team Okami: lonewolf nelson (fenrir) gabu 
+Wolves in Sheep's Clothing: archambeault badwolf adam1994 fang 
+HungryLikeTheWolf: wereWolf lee0814 ribau 
+I ate granny: joe vella thesnake 
+ClassicWolves: gehr norante basic 
+unleashTheFury: hancharik 
+
+
+                              class     total   Sc.01   Sc.02   Sc.03   Sc.04   Sc.05   Sc.06   Sc.07   Sc.08
+
+Sheep:
+                        dodds.Sheep:    0.863   0.764   0.818   0.894   0.844   0.938   0.856   0.792   1.000
+                    derhammer.Sheep:    0.783   0.788   0.786   0.747   0.844   0.903   0.561   0.635   1.000
+                        zhang.Sheep:    0.735   0.778   0.774   0.836   0.125   0.941   0.845   0.691   0.887
+                         chin.Sheep:    0.703   0.780   0.795   0.887   0.743   0.885   0.790   0.747   0.000
+                       mihir1.Sheep:    0.684   0.715   0.767   0.845   0.250   0.922   0.905   0.745   0.325
+                       robert.Sheep:    0.679   0.788   0.753   0.764   0.609   0.936   0.601   0.000   0.983
+                         guan.Sheep:    0.676   0.538   0.583   0.737   0.403   0.800   0.829   0.516   1.000
+                    kevinbaik.Sheep:    0.656   0.795   0.774   0.720   0.738   0.908   0.684   0.628   0.000
+                    lastplace.Sheep:    0.653   0.712   0.724   0.783   0.394   0.896   0.785   0.210   0.722
+                      becerra.Sheep:    0.601   0.770   0.725   0.755   0.314   0.856   0.759   0.632   0.000
+                    alexRajka.Sheep:    0.587   0.753   0.811   0.783   0.076   0.875   0.684   0.710   0.000
+                      antonio.Sheep:    0.575   0.765   0.766   0.752   0.000   0.867   0.720   0.728   0.000
+               fiftydaysofpmn.Sheep:    0.571   0.764   0.774   0.770   0.000   0.851   0.684   0.729   0.000
+                    battleram.Sheep:    0.569   0.755   0.784   0.747   0.000   0.876   0.653   0.737   0.000
+                       iSheep.Sheep:    0.568   0.655   0.615   0.793   0.000   0.755   0.936   0.000   0.792
+                        wumbo.Sheep:    0.568   0.767   0.710   0.766   0.000   0.870   0.733   0.698   0.000
+                       schott.Sheep:    0.568   0.758   0.784   0.778   0.000   0.849   0.654   0.720   0.000
+                   michaeltom.Sheep:    0.565   0.754   0.762   0.845   0.352   0.843   0.321   0.647   0.000
+                 steverohan10.Sheep:    0.560   0.717   0.766   0.755   0.000   0.844   0.695   0.705   0.000
+                      broscar.Sheep:    0.558   0.745   0.731   0.755   0.000   0.867   0.664   0.703   0.000
+                        peron.Sheep:    0.556   0.734   0.766   0.752   0.000   0.891   0.625   0.682   0.000
+                  lobsterfest.Sheep:    0.546   0.747   0.771   0.780   0.000   0.882   0.627   0.564   0.000
+                     jennings.Sheep:    0.538   0.741   0.711   0.716   0.000   0.848   0.623   0.664   0.000
+                     dkhouri1.Sheep:    0.529   0.689   0.707   0.705   0.000   0.846   0.641   0.646   0.000
+               lammibalLector.Sheep:    0.507   0.587   0.536   0.744   0.000   0.787   0.894   0.509   0.000
+                  fuhrmeister.Sheep:    0.506   0.778   0.828   0.806   0.000   0.877   0.120   0.637   0.000
+                       rashid.Sheep:    0.498   0.745   0.370   0.734   0.033   0.896   0.818   0.392   0.000
+                         song.Sheep:    0.497   0.751   0.788   0.814   0.000   0.867   0.068   0.686   0.000
+                    shearluck.Sheep:    0.491   0.722   0.748   0.833   0.000   0.849   0.083   0.691   0.000
+                       zhang1.Sheep:    0.490   0.744   0.730   0.828   0.000   0.863   0.089   0.666   0.000
+                  chamberlain.Sheep:    0.480   0.696   0.757   0.811   0.000   0.865   0.082   0.629   0.000
+                thestraysheep.Sheep:    0.474   0.708   0.747   0.806   0.000   0.859   0.076   0.595   0.000
+                    aStricker.Sheep:    0.215   0.450   0.406   0.080   0.257   0.526   0.000   0.000   0.000
+                    macdonald.Sheep:    0.196   0.080   0.425   0.135   0.000   0.160   0.000   0.769   0.000
+                   nicewonger.Sheep:    0.071   0.113   0.123   0.156   0.000   0.118   0.000   0.057   0.000
+                        basic.Sheep:    0.038   0.023   0.075   0.040   0.000   0.030   0.000   0.141   0.000
+                     sheepman.Sheep:    0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+
+SheepTeam:
+              DieWolfDie!.SheepTeam:    0.636   0.690   0.716   0.796   0.175   0.870   0.581   0.632   0.628
+             ClassicSheep.SheepTeam:    0.597   0.589   0.618   0.642   0.608   0.689   0.552   0.579   0.500
+            Sheep Thrills.SheepTeam:    0.580   0.755   0.675   0.758   0.180   0.899   0.682   0.446   0.246
+         Sheeper Troopers.SheepTeam:    0.566   0.711   0.699   0.787   0.099   0.845   0.632   0.376   0.378
+            Romulus' Pack.SheepTeam:    0.563   0.742   0.757   0.760   0.000   0.854   0.681   0.713   0.000
+              Sheep squad.SheepTeam:    0.551   0.741   0.747   0.803   0.226   0.855   0.399   0.636   0.000
+           Woolly Bullies.SheepTeam:    0.548   0.699   0.700   0.756   0.000   0.837   0.735   0.654   0.000
+         Greener Pastures.SheepTeam:    0.532   0.754   0.748   0.790   0.000   0.865   0.400   0.697   0.000
+  TeamWolfAnnihilation();.SheepTeam:    0.484   0.658   0.673   0.635   0.127   0.795   0.404   0.500   0.081
+             SleepySheepy.SheepTeam:    0.357   0.441   0.538   0.454   0.184   0.516   0.201   0.523   0.000
+           House of Sheep.SheepTeam:    0.351   0.470   0.467   0.467   0.000   0.557   0.416   0.431   0.000
+
+Wolf:
+                          gehr.Wolf:    2.111   1.667   1.561   1.583   3.174   1.174   2.117   2.439   3.170
+                     hancharik.Wolf:    1.978   1.670   1.572   1.292   2.939   1.322   1.795   2.197   3.038
+                      thesnake.Wolf:    1.788   1.864   1.811   1.663   2.848   1.322   2.008   2.780   0.008
+                         ribau.Wolf:    1.767   1.436   1.417   1.114   2.875   0.670   1.841   1.610   3.174
+                     leososcar.Wolf:    1.654   1.826   1.746   1.610   2.886   0.549   2.212   2.405   0.000
+                      adam1994.Wolf:    1.634   1.102   1.049   0.992   2.833   1.064   1.527   1.330   3.178
+                         vella.Wolf:    1.621   1.682   1.712   1.523   3.019   0.473   2.080   2.481   0.000
+                      wereWolf.Wolf:    1.564   1.117   1.121   0.947   2.890   0.652   1.519   1.121   3.144
+                  archambeault.Wolf:    1.494   1.152   0.973   0.811   2.288   1.034   1.655   1.114   2.928
+                   javathehutt.Wolf:    1.420   1.337   1.417   1.231   3.133   0.383   2.106   1.754   0.000
+                        gildea.Wolf:    1.399   1.314   1.451   1.299   3.015   0.322   2.042   1.750   0.000
+                          fang.Wolf:    1.366   1.360   1.322   1.307   3.027   0.280   1.894   1.739   0.000
+                       lee0814.Wolf:    1.364   1.318   1.170   1.053   2.720   0.598   1.686   0.898   1.470
+                          ziab.Wolf:    1.347   1.250   1.292   1.140   3.064   0.345   1.955   1.731   0.000
+                   wilyecoyote.Wolf:    1.297   1.417   1.473   1.314   1.814   0.341   1.909   2.106   0.000
+                        nelson.Wolf:    1.249   1.341   1.428   1.208   2.042   0.360   1.883   1.727   0.000
+                         godin.Wolf:    1.207   1.189   1.159   1.042   2.568   0.356   1.788   1.553   0.000
+                    rickyBobby.Wolf:    1.104   0.879   1.167   0.917   2.708   0.273   1.663   1.223   0.000
+                           joe.Wolf:    0.962   0.795   0.879   0.750   2.144   0.208   1.598   1.318   0.000
+                       badwolf.Wolf:    0.797   0.606   0.674   0.534   2.095   0.205   1.371   0.894   0.000
+                      lonewolf.Wolf:    0.546   0.568   0.538   0.394   1.095   0.292   0.621   0.860   0.000
+                         basic.Wolf:    0.125   0.095   0.121   0.110   0.140   0.061   0.326   0.152   0.000
+                       norante.Wolf:    0.068   0.140   0.072   0.080   0.061   0.045   0.038   0.110   0.000
+                          gabu.Wolf:    0.039   0.057   0.068   0.042   0.008   0.023   0.106   0.011   0.000
+
+WolfTeam:
+            unleashTheFury.WolfTeam:    1.978   1.670   1.572   1.292   2.939   1.322   1.795   2.197   3.038
+         HungryLikeTheWolf.WolfTeam:    1.565   1.290   1.236   1.038   2.828   0.640   1.682   1.210   2.596
+              I ate granny.WolfTeam:    1.457   1.447   1.467   1.312   2.670   0.668   1.895   2.193   0.003
+                  WolfPack.WolfTeam:    1.394   1.339   1.445   1.264   2.936   0.382   2.006   1.783   0.000
+Wolves in Sheep's Clothing.WolfTeam:    1.323   1.055   1.005   0.911   2.561   0.646   1.612   1.269   1.527
+               Remus' Pack.WolfTeam:    1.284   1.285   1.308   1.165   2.482   0.347   1.884   1.797   0.000
+             ClassicWolves.WolfTeam:    0.768   0.634   0.585   0.591   1.125   0.427   0.827   0.900   1.057
+                Team Okami.WolfTeam:    0.611   0.655   0.678   0.548   1.048   0.225   0.870   0.866   0.000
+
+
+24 tournaments with 50687 games in total played.
+Time: 6643.624s elapsed.
+
+
+Timing (ms.):
+
+
+               class    timing   Sc.01   Sc.02   Sc.03   Sc.04   Sc.05   Sc.06   Sc.07   Sc.08
+
+Sheep:
+        iSheep.Sheep:    3.330   5.276   6.778   4.231   0.000   3.931   1.054   0.000   5.367
+lammibalLector.Sheep:    0.632   0.015   0.016   0.018   0.027   0.076   0.017   0.016   4.870
+     lastplace.Sheep:    0.532   0.089   0.229   0.143   0.426   0.125   0.147   0.832   2.262
+        robert.Sheep:    0.164   0.135   0.149   0.140   0.086   0.124   0.191   0.000   0.490
+          guan.Sheep:    0.098   0.032   0.029   0.021   0.042   0.026   0.019   0.545   0.072
+         dodds.Sheep:    0.097   0.033   0.030   0.027   0.088   0.031   0.034   0.464   0.071
+         zhang.Sheep:    0.057   0.027   0.024   0.021   0.132   0.023   0.023   0.103   0.105
+       broscar.Sheep:    0.031   0.007   0.007   0.007   0.188   0.016   0.006   0.005   0.011
+   fuhrmeister.Sheep:    0.023   0.026   0.025   0.024   0.021   0.024   0.021   0.022   0.020
+ thestraysheep.Sheep:    0.013   0.009   0.009   0.010   0.009   0.011   0.010   0.008   0.037
+         wumbo.Sheep:    0.008   0.007   0.007   0.007   0.007   0.008   0.009   0.006   0.014
+     alexRajka.Sheep:    0.007   0.007   0.007   0.007   0.006   0.007   0.007   0.006   0.011
+fiftydaysofpmn.Sheep:    0.007   0.006   0.007   0.007   0.006   0.007   0.006   0.005   0.012
+     kevinbaik.Sheep:    0.007   0.008   0.007   0.007   0.006   0.007   0.007   0.005   0.007
+     derhammer.Sheep:    0.007   0.007   0.007   0.007   0.006   0.007   0.008   0.006   0.007
+       antonio.Sheep:    0.007   0.007   0.007   0.007   0.005   0.007   0.006   0.005   0.010
+          chin.Sheep:    0.007   0.007   0.006   0.007   0.006   0.006   0.007   0.005   0.009
+   lobsterfest.Sheep:    0.006   0.008   0.006   0.007   0.006   0.006   0.006   0.005   0.007
+  steverohan10.Sheep:    0.006   0.006   0.006   0.006   0.005   0.006   0.006   0.005   0.010
+        rashid.Sheep:    0.006   0.007   0.007   0.007   0.005   0.006   0.006   0.005   0.007
+          song.Sheep:    0.006   0.006   0.006   0.006   0.006   0.006   0.006   0.005   0.007
+     shearluck.Sheep:    0.006   0.006   0.006   0.007   0.005   0.006   0.006   0.005   0.007
+     battleram.Sheep:    0.006   0.006   0.006   0.006   0.005   0.006   0.006   0.005   0.008
+        schott.Sheep:    0.006   0.006   0.006   0.006   0.005   0.006   0.006   0.005   0.008
+      dkhouri1.Sheep:    0.006   0.007   0.006   0.006   0.005   0.006   0.006   0.005   0.007
+      jennings.Sheep:    0.006   0.007   0.006   0.006   0.005   0.006   0.006   0.005   0.007
+         peron.Sheep:    0.006   0.006   0.006   0.006   0.005   0.006   0.007   0.005   0.006
+    nicewonger.Sheep:    0.006   0.006   0.006   0.006   0.005   0.005   0.006   0.005   0.007
+     aStricker.Sheep:    0.006   0.006   0.006   0.006   0.005   0.005   0.006   0.006   0.005
+        zhang1.Sheep:    0.006   0.006   0.006   0.006   0.005   0.006   0.006   0.005   0.007
+     macdonald.Sheep:    0.006   0.006   0.006   0.006   0.005   0.005   0.005   0.005   0.007
+        mihir1.Sheep:    0.005   0.006   0.006   0.006   0.006   0.005   0.005   0.004   0.005
+    michaeltom.Sheep:    0.005   0.006   0.006   0.006   0.005   0.005   0.006   0.004   0.004
+       becerra.Sheep:    0.005   0.006   0.006   0.005   0.005   0.005   0.006   0.004   0.004
+         basic.Sheep:    0.005   0.005   0.005   0.005   0.005   0.005   0.005   0.004   0.004
+   chamberlain.Sheep:    0.005   0.006   0.006   0.005   0.004   0.005   0.005   0.004   0.004
+
+Wolf:
+        lee0814.Wolf:    3.095   1.350   1.263   1.304   1.422   1.984   0.752   7.200   9.488
+   archambeault.Wolf:    0.877   0.124   0.136   0.194   0.073   0.262   0.086   3.020   3.124
+          ribau.Wolf:    0.273   0.094   0.090   0.092   0.091   0.112   0.040   0.807   0.855
+           gehr.Wolf:    0.114   0.027   0.026   0.028   0.020   0.038   0.022   0.469   0.284
+       wereWolf.Wolf:    0.113   0.024   0.021   0.024   0.017   0.037   0.016   0.350   0.416
+       adam1994.Wolf:    0.053   0.021   0.019   0.021   0.017   0.023   0.019   0.250   0.058
+       lonewolf.Wolf:    0.034   0.034   0.034   0.034   0.034   0.033   0.035   0.030   0.040
+        norante.Wolf:    0.019   0.021   0.020   0.019   0.018   0.017   0.020   0.017   0.021
+            joe.Wolf:    0.018   0.019   0.019   0.019   0.017   0.018   0.021   0.016   0.018
+       thesnake.Wolf:    0.015   0.013   0.012   0.012   0.012   0.013   0.012   0.010   0.038
+     rickyBobby.Wolf:    0.011   0.009   0.009   0.009   0.008   0.009   0.009   0.018   0.018
+           ziab.Wolf:    0.011   0.009   0.009   0.010   0.009   0.010   0.009   0.007   0.023
+         gildea.Wolf:    0.010   0.009   0.009   0.009   0.008   0.009   0.009   0.007   0.018
+      hancharik.Wolf:    0.009   0.009   0.009   0.009   0.008   0.009   0.008   0.006   0.011
+    javathehutt.Wolf:    0.008   0.007   0.008   0.008   0.007   0.007   0.008   0.006   0.014
+           fang.Wolf:    0.007   0.008   0.008   0.007   0.006   0.007   0.008   0.008   0.007
+          vella.Wolf:    0.007   0.007   0.007   0.007   0.006   0.006   0.008   0.005   0.008
+    wilyecoyote.Wolf:    0.007   0.007   0.007   0.007   0.006   0.006   0.007   0.005   0.008
+      leososcar.Wolf:    0.007   0.007   0.007   0.006   0.006   0.006   0.007   0.005   0.008
+          godin.Wolf:    0.006   0.007   0.007   0.006   0.006   0.006   0.007   0.005   0.008
+        badwolf.Wolf:    0.006   0.006   0.006   0.006   0.006   0.005   0.007   0.005   0.007
+         nelson.Wolf:    0.006   0.006   0.006   0.006   0.005   0.005   0.006   0.005   0.006
+          basic.Wolf:    0.004   0.005   0.005   0.004   0.004   0.004   0.005   0.004   0.004
+           gabu.Wolf:    0.004   0.005   0.004   0.004   0.004   0.004   0.004   0.004   0.004
+
+
+
+
+
+
+Wolf attacks:
+
+
+              	adam1994	archambeault	badwolf	basic	fang	gabu	gehr	gildea	godin	hancharik	javathehutt	joe	lee0814	leososcar	lonewolf	nelson	norante	ribau	rickyBobby	thesnake	vella	wereWolf	wilyecoyote	ziab	
+     aStricker	     174	         155	     52	   13	 128	  13	 179	   130	  125	      160	        137	 61	    148	      138	      19	   122	      3	  148	       109	     140	  137	     163	        132	 131	
+     alexRajka	      70	          56	     35	    6	  70	   1	  99	    65	   57	       98	         69	 37	     66	       72	      21	    60	      1	   94	        41	      80	   73	      74	         69	  61	
+       antonio	     111	         128	     92	   16	 102	   1	 225	   146	   62	      173	         95	 84	     95	       88	      42	    94	      5	  149	       113	     110	   96	     103	        138	  68	
+         basic	     170	         149	     53	   21	 135	   7	 189	   148	  145	      185	        139	 30	    124	      132	      52	   118	      4	  180	       103	     163	  143	     182	        123	 142	
+     battleram	      99	          63	     43	    6	 108	   3	 110	    62	   79	      135	         98	100	     94	      115	      16	    43	      4	   98	        69	      95	   85	      84	         76	 106	
+       becerra	      70	          86	     44	    6	 113	   0	 113	    77	   66	      145	         75	 69	    104	      134	      36	   103	      0	   92	        91	     123	  136	      48	         95	  71	
+       broscar	     101	          81	     50	    8	  46	   2	  92	    65	   75	      104	         81	 73	     74	       75	      27	    61	      6	  100	        44	      84	   98	     115	         82	  58	
+   chamberlain	     114	         129	     72	   10	 112	   1	 179	   127	   96	      139	        100	 56	     91	      111	      46	    67	      5	  129	        62	     134	  101	     111	         94	 110	
+          chin	      46	          61	     17	    4	  46	   0	  85	    45	   20	       80	         26	 11	     39	       58	      22	    48	      0	   59	         7	      73	   52	      59	         42	  30	
+     derhammer	      57	          64	     28	    1	  33	   4	  62	    47	   26	       68	         45	 81	     39	       42	      19	    37	      3	   42	        55	      69	   47	      25	         40	  52	
+      dkhouri1	     133	         124	     62	    7	  74	   2	 114	   114	   96	      132	         99	 77	     86	      137	      11	    87	      8	  141	        62	     126	  108	     105	         91	  74	
+         dodds	      25	          26	     15	    1	  34	   0	  46	    38	   22	       38	         31	 23	     16	       50	       4	    11	      0	   32	        32	      53	   44	      12	         36	  42	
+fiftydaysofpmn	      91	          69	     71	    5	  58	   2	 136	    48	   55	       98	         60	 56	     63	       91	      23	    77	     13	  104	        44	      81	   84	      59	         82	  48	
+   fuhrmeister	      82	          50	     43	    3	  76	   0	 117	    74	   53	      105	         65	 47	     77	       82	      31	    38	      2	   90	        40	     106	   80	      88	         82	  69	
+          guan	      52	         119	     45	    8	  91	   3	 132	    89	   81	      107	        100	 52	     96	      141	      38	   129	     18	  102	        80	     151	  110	      70	         86	  72	
+        iSheep	      83	          76	     28	   13	  74	   3	  89	    75	   69	       94	         73	 39	     72	       81	      31	    46	      2	   75	        73	      93	   82	      81	         43	  70	
+      jennings	      90	          94	     69	    7	 120	   2	 152	    95	   87	      108	         99	 77	     59	      101	      39	    83	      1	  110	        98	     107	  104	     114	         87	 110	
+     kevinbaik	      67	          51	     27	    4	  39	   0	  78	    48	   44	       78	         51	 40	     46	       68	      25	    83	      0	   51	        65	      77	   75	      44	         35	  35	
+lammibalLector	     116	         121	     61	    8	  88	   1	 133	   120	   95	      128	         94	 48	     70	      117	      70	   115	      8	  146	       108	     132	  153	     156	         92	  89	
+     lastplace	      65	          55	     25	    3	  70	   1	  86	    74	   62	       92	         68	 37	     68	       70	      23	    46	      3	   73	        56	      82	   61	      49	         49	  65	
+   lobsterfest	      89	          74	     39	    3	  70	   1	 103	    70	   45	      118	         69	 37	     84	       89	      15	    27	      2	   87	        75	      98	   82	      73	         64	  55	
+     macdonald	     131	          75	     41	   18	  99	   3	 168	   109	  124	      153	        115	 51	    127	       89	      46	    71	      1	  135	        71	     124	   79	     152	        108	 104	
+    michaeltom	      93	         105	     65	    6	  72	   0	 157	    64	  103	      136	        106	 71	     68	       76	      49	   109	      1	  150	        60	      85	   93	     118	         91	 105	
+        mihir1	      60	          54	     24	    4	  44	   0	  68	    45	   50	       56	         49	 26	     63	       54	      46	    85	      0	   74	        34	      68	   44	      61	         44	  54	
+    nicewonger	     169	         135	     65	    6	 118	  11	 185	   128	  104	      172	        122	 90	    144	      122	      64	   100	      9	  160	        94	     155	  129	     173	        124	 129	
+         peron	      76	          77	     36	    7	  62	   1	 101	    64	   47	       82	         69	 87	     61	       81	      26	    75	      9	   86	        64	      81	   82	      72	         51	  60	
+        rashid	      96	         108	     51	    7	  78	   1	 109	    86	   67	      124	         78	 41	     74	       98	      51	    67	     15	  100	        71	     102	   97	     103	         86	  89	
+        robert	      45	          32	     42	    9	  55	   2	  83	    63	   62	       84	         65	 37	     53	       89	      49	    49	      2	   66	        35	      85	   66	      51	         42	  61	
+        schott	      62	         101	     59	    9	  83	   2	 175	    82	   44	      141	         75	 51	     50	       85	      25	    91	      3	  110	        54	     116	   96	      77	         86	  74	
+     shearluck	      92	          91	     41	    7	  72	   8	 115	    73	   69	      113	         78	 62	     89	       88	      15	    77	      1	  102	        47	      96	   87	      84	         62	  75	
+          song	     189	         118	     51	    6	  89	   0	 147	    83	   92	      138	        105	 70	     84	      110	      28	    82	      5	  122	        64	     110	  117	     137	         77	 113	
+  steverohan10	     100	          59	     38	    4	  68	   4	 118	    79	   37	       98	         71	 40	     58	      149	      30	    72	      3	   76	        55	      91	  121	      62	         54	  41	
+ thestraysheep	     103	          90	     46	    4	  81	   4	 118	    80	   88	      118	         85	 69	     87	       72	      41	    62	      5	  113	        50	      95	   81	      85	         50	  85	
+         wumbo	      80	          86	     31	    3	  65	   0	 110	    70	   25	       96	         65	 41	     63	       77	       5	    34	      0	   78	        51	      82	   73	      70	         63	  61	
+         zhang	      50	          43	     52	    7	  84	   0	 102	    88	   41	       71	         72	 59	     67	       83	      33	    44	      0	   61	        67	     102	   97	      43	         53	  70	
+        zhang1	     201	         151	     71	   15	 128	   0	 183	    84	  136	      211	        170	101	    182	      229	      35	   124	      2	  197	        87	     207	  211	     200	        110	 166	
+
+
+
+History
+
+
+
+
+
+
+
+
+
+Player Crashes:
+
+
+                                                        class   crashestotal calls to move()
+
+aStricker.Sheep.Crash:
+                                        aStricker.Sheep.Crash:      137  328045
+
+aStricker.Sheep.Crash.ScenarioSc.07:
+                          aStricker.Sheep.Crash.ScenarioSc.07:      137  135891
+       java.lang.RuntimeException: not playing (disqualified):      131
+             java.lang.RuntimeException: Player disqualified.:        3
+                        java.util.concurrent.TimeoutException:        3
+
+antonio.Sheep.Crash:
+                                          antonio.Sheep.Crash:      419  483610
+
+antonio.Sheep.Crash.ScenarioSc.07:
+                            antonio.Sheep.Crash.ScenarioSc.07:      419  139578
+       java.lang.RuntimeException: not playing (disqualified):      417
+             java.lang.RuntimeException: Player disqualified.:        1
+                        java.util.concurrent.TimeoutException:        1
+
+archambeault.Wolf.Crash:
+                                      archambeault.Wolf.Crash:    18601  118535
+
+archambeault.Wolf.Crash.ScenarioSc.01:
+                        archambeault.Wolf.Crash.ScenarioSc.01:      128    6236
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      128
+
+archambeault.Wolf.Crash.ScenarioSc.02:
+                        archambeault.Wolf.Crash.ScenarioSc.02:      133    6552
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      133
+
+archambeault.Wolf.Crash.ScenarioSc.03:
+                        archambeault.Wolf.Crash.ScenarioSc.03:      140    6551
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      140
+
+archambeault.Wolf.Crash.ScenarioSc.04:
+                        archambeault.Wolf.Crash.ScenarioSc.04:        8   10823
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:        8
+
+archambeault.Wolf.Crash.ScenarioSc.05:
+                        archambeault.Wolf.Crash.ScenarioSc.05:       97    6962
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       97
+
+archambeault.Wolf.Crash.ScenarioSc.06:
+                        archambeault.Wolf.Crash.ScenarioSc.06:       90    6376
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       90
+
+archambeault.Wolf.Crash.ScenarioSc.07:
+                        archambeault.Wolf.Crash.ScenarioSc.07:    17997   58637
+       java.lang.RuntimeException: not playing (disqualified):    17762
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      103
+             java.lang.RuntimeException: Player disqualified.:       66
+                        java.util.concurrent.TimeoutException:       66
+
+archambeault.Wolf.Crash.ScenarioSc.08:
+                        archambeault.Wolf.Crash.ScenarioSc.08:        8   16398
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:        8
+
+badwolf.Wolf.Crash:
+                                           badwolf.Wolf.Crash:    55951  178681
+
+badwolf.Wolf.Crash.ScenarioSc.01:
+                             badwolf.Wolf.Crash.ScenarioSc.01:     3386    8950
+                               java.lang.NullPointerException:     3386
+
+badwolf.Wolf.Crash.ScenarioSc.02:
+                             badwolf.Wolf.Crash.ScenarioSc.02:     3693    8087
+                               java.lang.NullPointerException:     3693
+
+badwolf.Wolf.Crash.ScenarioSc.03:
+                             badwolf.Wolf.Crash.ScenarioSc.03:     3528    8563
+                               java.lang.NullPointerException:     3528
+
+badwolf.Wolf.Crash.ScenarioSc.04:
+                             badwolf.Wolf.Crash.ScenarioSc.04:     3133   12395
+                               java.lang.NullPointerException:     3133
+
+badwolf.Wolf.Crash.ScenarioSc.05:
+                             badwolf.Wolf.Crash.ScenarioSc.05:     4071   10979
+                               java.lang.NullPointerException:     4071
+
+badwolf.Wolf.Crash.ScenarioSc.06:
+                             badwolf.Wolf.Crash.ScenarioSc.06:     4692    8237
+                               java.lang.NullPointerException:     4692
+
+badwolf.Wolf.Crash.ScenarioSc.07:
+                             badwolf.Wolf.Crash.ScenarioSc.07:    33448   68670
+                               java.lang.NullPointerException:    33448
+
+basic.Sheep.Crash:
+                                            basic.Sheep.Crash:   404870  404870
+
+basic.Sheep.Crash.ScenarioSc.01:
+                              basic.Sheep.Crash.ScenarioSc.01:    24704   24704
+           java.lang.RuntimeException: illegal move: too long:    24704
+
+basic.Sheep.Crash.ScenarioSc.02:
+                              basic.Sheep.Crash.ScenarioSc.02:    23996   23996
+           java.lang.RuntimeException: illegal move: too long:    23996
+
+basic.Sheep.Crash.ScenarioSc.03:
+                              basic.Sheep.Crash.ScenarioSc.03:    24723   24723
+           java.lang.RuntimeException: illegal move: too long:    24723
+
+basic.Sheep.Crash.ScenarioSc.04:
+                              basic.Sheep.Crash.ScenarioSc.04:    25133   25133
+           java.lang.RuntimeException: illegal move: too long:    25133
+
+basic.Sheep.Crash.ScenarioSc.05:
+                              basic.Sheep.Crash.ScenarioSc.05:    30496   30496
+           java.lang.RuntimeException: illegal move: too long:    30496
+
+basic.Sheep.Crash.ScenarioSc.06:
+                              basic.Sheep.Crash.ScenarioSc.06:    22955   22955
+           java.lang.RuntimeException: illegal move: too long:    22955
+
+basic.Sheep.Crash.ScenarioSc.07:
+                              basic.Sheep.Crash.ScenarioSc.07:   156294  156294
+           java.lang.RuntimeException: illegal move: too long:   156294
+
+basic.Sheep.Crash.ScenarioSc.08:
+                              basic.Sheep.Crash.ScenarioSc.08:    96569   96569
+           java.lang.RuntimeException: illegal move: too long:    96569
+
+battleram.Sheep.Crash:
+                                        battleram.Sheep.Crash:   318737  320579
+
+battleram.Sheep.Crash.ScenarioSc.01:
+                          battleram.Sheep.Crash.ScenarioSc.01:    12481   12760
+           java.lang.RuntimeException: illegal move: too long:    12481
+
+battleram.Sheep.Crash.ScenarioSc.02:
+                          battleram.Sheep.Crash.ScenarioSc.02:    12071   12386
+           java.lang.RuntimeException: illegal move: too long:    12071
+
+battleram.Sheep.Crash.ScenarioSc.03:
+                          battleram.Sheep.Crash.ScenarioSc.03:    10582   10874
+           java.lang.RuntimeException: illegal move: too long:    10582
+
+battleram.Sheep.Crash.ScenarioSc.04:
+                          battleram.Sheep.Crash.ScenarioSc.04:    38849   38849
+           java.lang.RuntimeException: illegal move: too long:    38849
+
+battleram.Sheep.Crash.ScenarioSc.05:
+                          battleram.Sheep.Crash.ScenarioSc.05:    13750   13753
+           java.lang.RuntimeException: illegal move: too long:    13750
+
+battleram.Sheep.Crash.ScenarioSc.06:
+                          battleram.Sheep.Crash.ScenarioSc.06:     8074    8570
+           java.lang.RuntimeException: illegal move: too long:     8074
+
+battleram.Sheep.Crash.ScenarioSc.07:
+                          battleram.Sheep.Crash.ScenarioSc.07:    94413   94870
+           java.lang.RuntimeException: illegal move: too long:    93550
+       java.lang.RuntimeException: not playing (disqualified):      859
+             java.lang.RuntimeException: Player disqualified.:        2
+                        java.util.concurrent.TimeoutException:        2
+
+battleram.Sheep.Crash.ScenarioSc.08:
+                          battleram.Sheep.Crash.ScenarioSc.08:   128517  128517
+           java.lang.RuntimeException: illegal move: too long:   128517
+
+becerra.Sheep.Crash:
+                                          becerra.Sheep.Crash:     4007  321886
+
+becerra.Sheep.Crash.ScenarioSc.01:
+                            becerra.Sheep.Crash.ScenarioSc.01:       27   12889
+                               java.lang.NullPointerException:       26
+                          was.CoordinatesOutOfBoundsException:        1
+
+becerra.Sheep.Crash.ScenarioSc.02:
+                            becerra.Sheep.Crash.ScenarioSc.02:     1501   14165
+                               java.lang.NullPointerException:     1501
+
+becerra.Sheep.Crash.ScenarioSc.03:
+                            becerra.Sheep.Crash.ScenarioSc.03:      320   12642
+                          was.CoordinatesOutOfBoundsException:      320
+
+becerra.Sheep.Crash.ScenarioSc.05:
+                            becerra.Sheep.Crash.ScenarioSc.05:     2159   15597
+                          was.CoordinatesOutOfBoundsException:     2079
+                               java.lang.NullPointerException:       80
+
+broscar.Sheep.Crash:
+                                          broscar.Sheep.Crash:     1624  318480
+
+broscar.Sheep.Crash.ScenarioSc.04:
+                            broscar.Sheep.Crash.ScenarioSc.04:     1128   47227
+       java.lang.RuntimeException: not playing (disqualified):     1066
+             java.lang.RuntimeException: Player disqualified.:       31
+                        java.util.concurrent.TimeoutException:       31
+
+broscar.Sheep.Crash.ScenarioSc.05:
+                            broscar.Sheep.Crash.ScenarioSc.05:       81   13635
+       java.lang.RuntimeException: not playing (disqualified):       79
+             java.lang.RuntimeException: Player disqualified.:        1
+                        java.util.concurrent.TimeoutException:        1
+
+broscar.Sheep.Crash.ScenarioSc.07:
+                            broscar.Sheep.Crash.ScenarioSc.07:      415   90928
+       java.lang.RuntimeException: not playing (disqualified):      413
+             java.lang.RuntimeException: Player disqualified.:        1
+                        java.util.concurrent.TimeoutException:        1
+
+chin.Sheep.Crash:
+                                             chin.Sheep.Crash:     1223  228492
+
+chin.Sheep.Crash.ScenarioSc.01:
+                               chin.Sheep.Crash.ScenarioSc.01:        1    8931
+                          was.CoordinatesOutOfBoundsException:        1
+
+chin.Sheep.Crash.ScenarioSc.02:
+                               chin.Sheep.Crash.ScenarioSc.02:       27    9359
+                          was.CoordinatesOutOfBoundsException:       27
+
+chin.Sheep.Crash.ScenarioSc.05:
+                               chin.Sheep.Crash.ScenarioSc.05:      922    9868
+                          was.CoordinatesOutOfBoundsException:      922
+
+chin.Sheep.Crash.ScenarioSc.07:
+                               chin.Sheep.Crash.ScenarioSc.07:      273   71980
+                          was.CoordinatesOutOfBoundsException:      273
+
+dkhouri1.Sheep.Crash:
+                                         dkhouri1.Sheep.Crash:   298065  299751
+
+dkhouri1.Sheep.Crash.ScenarioSc.01:
+                           dkhouri1.Sheep.Crash.ScenarioSc.01:    11902   12155
+           java.lang.RuntimeException: illegal move: too long:    11902
+
+dkhouri1.Sheep.Crash.ScenarioSc.02:
+                           dkhouri1.Sheep.Crash.ScenarioSc.02:    11358   11614
+           java.lang.RuntimeException: illegal move: too long:    11358
+
+dkhouri1.Sheep.Crash.ScenarioSc.03:
+                           dkhouri1.Sheep.Crash.ScenarioSc.03:    10478   10749
+           java.lang.RuntimeException: illegal move: too long:    10478
+
+dkhouri1.Sheep.Crash.ScenarioSc.04:
+                           dkhouri1.Sheep.Crash.ScenarioSc.04:    32541   32541
+           java.lang.RuntimeException: illegal move: too long:    32541
+
+dkhouri1.Sheep.Crash.ScenarioSc.05:
+                           dkhouri1.Sheep.Crash.ScenarioSc.05:    14126   14129
+           java.lang.RuntimeException: illegal move: too long:    14126
+
+dkhouri1.Sheep.Crash.ScenarioSc.06:
+                           dkhouri1.Sheep.Crash.ScenarioSc.06:     7666    8148
+           java.lang.RuntimeException: illegal move: too long:     7666
+
+dkhouri1.Sheep.Crash.ScenarioSc.07:
+                           dkhouri1.Sheep.Crash.ScenarioSc.07:    86138   86559
+           java.lang.RuntimeException: illegal move: too long:    86138
+
+dkhouri1.Sheep.Crash.ScenarioSc.08:
+                           dkhouri1.Sheep.Crash.ScenarioSc.08:   123856  123856
+           java.lang.RuntimeException: illegal move: too long:   123856
+
+dodds.Sheep.Crash:
+                                            dodds.Sheep.Crash:      845  152991
+
+dodds.Sheep.Crash.ScenarioSc.07:
+                              dodds.Sheep.Crash.ScenarioSc.07:      845   74060
+       java.lang.RuntimeException: not playing (disqualified):      839
+             java.lang.RuntimeException: Player disqualified.:        3
+                        java.util.concurrent.TimeoutException:        3
+
+fang.Wolf.Crash:
+                                              fang.Wolf.Crash:     1810  141860
+
+fang.Wolf.Crash.ScenarioSc.01:
+                                fang.Wolf.Crash.ScenarioSc.01:      336    6250
+           java.lang.RuntimeException: illegal move: too long:      221
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      115
+
+fang.Wolf.Crash.ScenarioSc.02:
+                                fang.Wolf.Crash.ScenarioSc.02:      368    5737
+           java.lang.RuntimeException: illegal move: too long:      246
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      122
+
+fang.Wolf.Crash.ScenarioSc.03:
+                                fang.Wolf.Crash.ScenarioSc.03:      232    5326
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      125
+           java.lang.RuntimeException: illegal move: too long:      107
+
+fang.Wolf.Crash.ScenarioSc.04:
+                                fang.Wolf.Crash.ScenarioSc.04:      187    8693
+           java.lang.RuntimeException: illegal move: too long:      180
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:        7
+
+fang.Wolf.Crash.ScenarioSc.05:
+                                fang.Wolf.Crash.ScenarioSc.05:      217    9226
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      203
+           java.lang.RuntimeException: illegal move: too long:       14
+
+fang.Wolf.Crash.ScenarioSc.06:
+                                fang.Wolf.Crash.ScenarioSc.06:      216    4825
+           java.lang.RuntimeException: illegal move: too long:      128
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       88
+
+fang.Wolf.Crash.ScenarioSc.07:
+                                fang.Wolf.Crash.ScenarioSc.07:      254   49003
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      135
+           java.lang.RuntimeException: illegal move: too long:      119
+
+fiftydaysofpmn.Sheep.Crash:
+                                   fiftydaysofpmn.Sheep.Crash:   346095  348082
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.01:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.01:    13317   13630
+           java.lang.RuntimeException: illegal move: too long:    13317
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.02:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.02:    12374   12680
+           java.lang.RuntimeException: illegal move: too long:    12374
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.03:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.03:    11760   12087
+           java.lang.RuntimeException: illegal move: too long:    11760
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.04:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.04:    53913   53913
+           java.lang.RuntimeException: illegal move: too long:    53913
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.05:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.05:    15242   15248
+           java.lang.RuntimeException: illegal move: too long:    15242
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.06:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.06:     9069    9616
+           java.lang.RuntimeException: illegal move: too long:     9069
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.07:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.07:    97548   98036
+           java.lang.RuntimeException: illegal move: too long:    97548
+
+fiftydaysofpmn.Sheep.Crash.ScenarioSc.08:
+                     fiftydaysofpmn.Sheep.Crash.ScenarioSc.08:   132872  132872
+           java.lang.RuntimeException: illegal move: too long:   132872
+
+fuhrmeister.Sheep.Crash:
+                                      fuhrmeister.Sheep.Crash:     5088  253943
+
+fuhrmeister.Sheep.Crash.ScenarioSc.01:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.01:      240   10578
+       java.lang.RuntimeException: not playing (disqualified):      232
+             java.lang.RuntimeException: Player disqualified.:        4
+                        java.util.concurrent.TimeoutException:        4
+
+fuhrmeister.Sheep.Crash.ScenarioSc.02:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.02:       83    9606
+       java.lang.RuntimeException: not playing (disqualified):       79
+             java.lang.RuntimeException: Player disqualified.:        2
+                        java.util.concurrent.TimeoutException:        2
+
+fuhrmeister.Sheep.Crash.ScenarioSc.03:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.03:      141    8614
+       java.lang.RuntimeException: not playing (disqualified):      137
+             java.lang.RuntimeException: Player disqualified.:        2
+                        java.util.concurrent.TimeoutException:        2
+
+fuhrmeister.Sheep.Crash.ScenarioSc.04:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.04:      212   30257
+       java.lang.RuntimeException: not playing (disqualified):      204
+             java.lang.RuntimeException: Player disqualified.:        4
+                        java.util.concurrent.TimeoutException:        4
+
+fuhrmeister.Sheep.Crash.ScenarioSc.05:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.05:      220   10977
+       java.lang.RuntimeException: not playing (disqualified):      214
+             java.lang.RuntimeException: Player disqualified.:        3
+                        java.util.concurrent.TimeoutException:        3
+
+fuhrmeister.Sheep.Crash.ScenarioSc.06:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.06:       97   16794
+       java.lang.RuntimeException: not playing (disqualified):       83
+             java.lang.RuntimeException: Player disqualified.:        7
+                        java.util.concurrent.TimeoutException:        7
+
+fuhrmeister.Sheep.Crash.ScenarioSc.07:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.07:     1386   68950
+       java.lang.RuntimeException: not playing (disqualified):     1372
+             java.lang.RuntimeException: Player disqualified.:        7
+                        java.util.concurrent.TimeoutException:        7
+
+fuhrmeister.Sheep.Crash.ScenarioSc.08:
+                        fuhrmeister.Sheep.Crash.ScenarioSc.08:     2709   98167
+       java.lang.RuntimeException: not playing (disqualified):     2667
+             java.lang.RuntimeException: Player disqualified.:       21
+                        java.util.concurrent.TimeoutException:       21
+
+gildea.Wolf.Crash:
+                                            gildea.Wolf.Crash:   134864  138125
+
+gildea.Wolf.Crash.ScenarioSc.01:
+                              gildea.Wolf.Crash.ScenarioSc.01:     5299    5715
+           java.lang.RuntimeException: illegal move: too long:     5174
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      125
+
+gildea.Wolf.Crash.ScenarioSc.02:
+                              gildea.Wolf.Crash.ScenarioSc.02:     4752    5102
+           java.lang.RuntimeException: illegal move: too long:     4619
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      133
+
+gildea.Wolf.Crash.ScenarioSc.03:
+                              gildea.Wolf.Crash.ScenarioSc.03:     4667    4984
+           java.lang.RuntimeException: illegal move: too long:     4530
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      137
+
+gildea.Wolf.Crash.ScenarioSc.04:
+                              gildea.Wolf.Crash.ScenarioSc.04:     7593    8558
+           java.lang.RuntimeException: illegal move: too long:     7584
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:        9
+
+gildea.Wolf.Crash.ScenarioSc.05:
+                              gildea.Wolf.Crash.ScenarioSc.05:     8455    8748
+           java.lang.RuntimeException: illegal move: too long:     8244
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      211
+
+gildea.Wolf.Crash.ScenarioSc.06:
+                              gildea.Wolf.Crash.ScenarioSc.06:     3747    4253
+           java.lang.RuntimeException: illegal move: too long:     3696
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       51
+
+gildea.Wolf.Crash.ScenarioSc.07:
+                              gildea.Wolf.Crash.ScenarioSc.07:    47551   47965
+           java.lang.RuntimeException: illegal move: too long:    47396
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      155
+
+gildea.Wolf.Crash.ScenarioSc.08:
+                              gildea.Wolf.Crash.ScenarioSc.08:    52800   52800
+           java.lang.RuntimeException: illegal move: too long:    52800
+
+godin.Wolf.Crash:
+                                             godin.Wolf.Crash:      826  141133
+
+godin.Wolf.Crash.ScenarioSc.01:
+                               godin.Wolf.Crash.ScenarioSc.01:      119    6071
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      119
+
+godin.Wolf.Crash.ScenarioSc.02:
+                               godin.Wolf.Crash.ScenarioSc.02:      114    5998
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      114
+
+godin.Wolf.Crash.ScenarioSc.03:
+                               godin.Wolf.Crash.ScenarioSc.03:      130    5409
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      130
+
+godin.Wolf.Crash.ScenarioSc.04:
+                               godin.Wolf.Crash.ScenarioSc.04:       11   10373
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       11
+
+godin.Wolf.Crash.ScenarioSc.05:
+                               godin.Wolf.Crash.ScenarioSc.05:      166    9545
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      166
+
+godin.Wolf.Crash.ScenarioSc.06:
+                               godin.Wolf.Crash.ScenarioSc.06:      128    4510
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      128
+
+godin.Wolf.Crash.ScenarioSc.07:
+                               godin.Wolf.Crash.ScenarioSc.07:      158   46427
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      158
+
+iSheep.Sheep.Crash:
+                                           iSheep.Sheep.Crash:   209994  281937
+
+iSheep.Sheep.Crash.ScenarioSc.01:
+                             iSheep.Sheep.Crash.ScenarioSc.01:     3358   10615
+       java.lang.RuntimeException: not playing (disqualified):     3216
+             java.lang.RuntimeException: Player disqualified.:       71
+                        java.util.concurrent.TimeoutException:       71
+
+iSheep.Sheep.Crash.ScenarioSc.02:
+                             iSheep.Sheep.Crash.ScenarioSc.02:     3997   11130
+       java.lang.RuntimeException: not playing (disqualified):     3833
+             java.lang.RuntimeException: Player disqualified.:       82
+                        java.util.concurrent.TimeoutException:       82
+
+iSheep.Sheep.Crash.ScenarioSc.03:
+                             iSheep.Sheep.Crash.ScenarioSc.03:      747    7567
+       java.lang.RuntimeException: not playing (disqualified):      711
+             java.lang.RuntimeException: Player disqualified.:       18
+                        java.util.concurrent.TimeoutException:       18
+
+iSheep.Sheep.Crash.ScenarioSc.04:
+                             iSheep.Sheep.Crash.ScenarioSc.04:    29152   29060
+       java.lang.RuntimeException: not playing (disqualified):    28968
+                        java.util.concurrent.TimeoutException:       92
+             java.lang.RuntimeException: Player disqualified.:       88
+java.lang.RuntimeException: Player disqualified for scenario.:        4
+
+iSheep.Sheep.Crash.ScenarioSc.05:
+                             iSheep.Sheep.Crash.ScenarioSc.05:     6232   13468
+       java.lang.RuntimeException: not playing (disqualified):     6066
+                        java.util.concurrent.TimeoutException:       83
+             java.lang.RuntimeException: Player disqualified.:       81
+java.lang.RuntimeException: Player disqualified for scenario.:        2
+
+iSheep.Sheep.Crash.ScenarioSc.07:
+                             iSheep.Sheep.Crash.ScenarioSc.07:   166508  166416
+       java.lang.RuntimeException: not playing (disqualified):   166324
+                        java.util.concurrent.TimeoutException:       92
+             java.lang.RuntimeException: Player disqualified.:       91
+java.lang.RuntimeException: Player disqualified for scenario.:        1
+
+javathehutt.Wolf.Crash:
+                                       javathehutt.Wolf.Crash:   135576  139057
+
+javathehutt.Wolf.Crash.ScenarioSc.01:
+                         javathehutt.Wolf.Crash.ScenarioSc.01:     5257    5775
+           java.lang.RuntimeException: illegal move: too long:     5121
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      136
+
+javathehutt.Wolf.Crash.ScenarioSc.02:
+                         javathehutt.Wolf.Crash.ScenarioSc.02:     4955    5302
+           java.lang.RuntimeException: illegal move: too long:     4825
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      130
+
+javathehutt.Wolf.Crash.ScenarioSc.03:
+                         javathehutt.Wolf.Crash.ScenarioSc.03:     4540    4838
+           java.lang.RuntimeException: illegal move: too long:     4397
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      143
+
+javathehutt.Wolf.Crash.ScenarioSc.04:
+                         javathehutt.Wolf.Crash.ScenarioSc.04:     7641    8542
+           java.lang.RuntimeException: illegal move: too long:     7624
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       17
+
+javathehutt.Wolf.Crash.ScenarioSc.05:
+                         javathehutt.Wolf.Crash.ScenarioSc.05:     8344    8816
+           java.lang.RuntimeException: illegal move: too long:     8146
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      198
+
+javathehutt.Wolf.Crash.ScenarioSc.06:
+                         javathehutt.Wolf.Crash.ScenarioSc.06:     3722    4254
+           java.lang.RuntimeException: illegal move: too long:     3654
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       68
+
+javathehutt.Wolf.Crash.ScenarioSc.07:
+                         javathehutt.Wolf.Crash.ScenarioSc.07:    48317   48730
+           java.lang.RuntimeException: illegal move: too long:    48161
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      156
+
+javathehutt.Wolf.Crash.ScenarioSc.08:
+                         javathehutt.Wolf.Crash.ScenarioSc.08:    52800   52800
+           java.lang.RuntimeException: illegal move: too long:    52800
+
+jennings.Sheep.Crash:
+                                         jennings.Sheep.Crash:   306034  307726
+
+jennings.Sheep.Crash.ScenarioSc.01:
+                           jennings.Sheep.Crash.ScenarioSc.01:    12173   12444
+           java.lang.RuntimeException: illegal move: too long:    12173
+
+jennings.Sheep.Crash.ScenarioSc.02:
+                           jennings.Sheep.Crash.ScenarioSc.02:    11410   11680
+           java.lang.RuntimeException: illegal move: too long:    11410
+
+jennings.Sheep.Crash.ScenarioSc.03:
+                           jennings.Sheep.Crash.ScenarioSc.03:    10569   10825
+           java.lang.RuntimeException: illegal move: too long:    10569
+
+jennings.Sheep.Crash.ScenarioSc.04:
+                           jennings.Sheep.Crash.ScenarioSc.04:    34069   34069
+           java.lang.RuntimeException: illegal move: too long:    34069
+
+jennings.Sheep.Crash.ScenarioSc.05:
+                           jennings.Sheep.Crash.ScenarioSc.05:    13707   13711
+           java.lang.RuntimeException: illegal move: too long:    13707
+
+jennings.Sheep.Crash.ScenarioSc.06:
+                           jennings.Sheep.Crash.ScenarioSc.06:     7692    8168
+           java.lang.RuntimeException: illegal move: too long:     7692
+
+jennings.Sheep.Crash.ScenarioSc.07:
+                           jennings.Sheep.Crash.ScenarioSc.07:    88316   88731
+           java.lang.RuntimeException: illegal move: too long:    88316
+
+jennings.Sheep.Crash.ScenarioSc.08:
+                           jennings.Sheep.Crash.ScenarioSc.08:   128098  128098
+           java.lang.RuntimeException: illegal move: too long:   128098
+
+joe.Wolf.Crash:
+                                               joe.Wolf.Crash:   179950  181874
+
+joe.Wolf.Crash.ScenarioSc.01:
+                                 joe.Wolf.Crash.ScenarioSc.01:     8185    8378
+           java.lang.RuntimeException: illegal move: too long:     4065
+                                java.lang.ArithmeticException:     3724
+                     java.lang.ArithmeticException: / by zero:      178
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      169
+       java.lang.RuntimeException: not playing (disqualified):       45
+             java.lang.RuntimeException: Player disqualified.:        2
+                        java.util.concurrent.TimeoutException:        2
+
+joe.Wolf.Crash.ScenarioSc.02:
+                                 joe.Wolf.Crash.ScenarioSc.02:     7773    7954
+           java.lang.RuntimeException: illegal move: too long:     3797
+                                java.lang.ArithmeticException:     3587
+                     java.lang.ArithmeticException: / by zero:      178
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      174
+       java.lang.RuntimeException: not playing (disqualified):       29
+             java.lang.RuntimeException: Player disqualified.:        4
+                        java.util.concurrent.TimeoutException:        4
+
+joe.Wolf.Crash.ScenarioSc.03:
+                                 joe.Wolf.Crash.ScenarioSc.03:     7467    7630
+           java.lang.RuntimeException: illegal move: too long:     3630
+                                java.lang.ArithmeticException:     3461
+                     java.lang.ArithmeticException: / by zero:      207
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      169
+
+joe.Wolf.Crash.ScenarioSc.04:
+                                 joe.Wolf.Crash.ScenarioSc.04:    14485   15149
+           java.lang.RuntimeException: illegal move: too long:     7964
+                                java.lang.ArithmeticException:     6499
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       14
+       java.lang.RuntimeException: not playing (disqualified):        6
+             java.lang.RuntimeException: Player disqualified.:        1
+                        java.util.concurrent.TimeoutException:        1
+
+joe.Wolf.Crash.ScenarioSc.05:
+                                 joe.Wolf.Crash.ScenarioSc.05:    10551   10614
+           java.lang.RuntimeException: illegal move: too long:     5848
+                                java.lang.ArithmeticException:     4467
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      180
+                     java.lang.ArithmeticException: / by zero:       56
+
+joe.Wolf.Crash.ScenarioSc.06:
+                                 joe.Wolf.Crash.ScenarioSc.06:    10513   10906
+                                java.lang.ArithmeticException:     8643
+           java.lang.RuntimeException: illegal move: too long:     1797
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       73
+
+joe.Wolf.Crash.ScenarioSc.07:
+                                 joe.Wolf.Crash.ScenarioSc.07:    68168   68443
+           java.lang.RuntimeException: illegal move: too long:    36158
+                                java.lang.ArithmeticException:    31837
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      173
+
+joe.Wolf.Crash.ScenarioSc.08:
+                                 joe.Wolf.Crash.ScenarioSc.08:    52808   52800
+           java.lang.RuntimeException: illegal move: too long:    50734
+                                java.lang.ArithmeticException:     1168
+       java.lang.RuntimeException: not playing (disqualified):      890
+             java.lang.RuntimeException: Player disqualified.:        8
+                        java.util.concurrent.TimeoutException:        8
+
+lastplace.Sheep.Crash:
+                                        lastplace.Sheep.Crash:   142706  233469
+
+lastplace.Sheep.Crash.ScenarioSc.01:
+                          lastplace.Sheep.Crash.ScenarioSc.01:      703    9387
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      526
+           java.lang.RuntimeException: illegal move: too long:      177
+
+lastplace.Sheep.Crash.ScenarioSc.02:
+                          lastplace.Sheep.Crash.ScenarioSc.02:      621    9621
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      443
+           java.lang.RuntimeException: illegal move: too long:      178
+
+lastplace.Sheep.Crash.ScenarioSc.03:
+                          lastplace.Sheep.Crash.ScenarioSc.03:      512    7499
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      405
+           java.lang.RuntimeException: illegal move: too long:      107
+
+lastplace.Sheep.Crash.ScenarioSc.04:
+                          lastplace.Sheep.Crash.ScenarioSc.04:     6993   20459
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:     3721
+           java.lang.RuntimeException: illegal move: too long:     3272
+
+lastplace.Sheep.Crash.ScenarioSc.05:
+                          lastplace.Sheep.Crash.ScenarioSc.05:     1037   10903
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      906
+           java.lang.RuntimeException: illegal move: too long:      131
+
+lastplace.Sheep.Crash.ScenarioSc.07:
+                          lastplace.Sheep.Crash.ScenarioSc.07:   108308  130284
+       java.lang.RuntimeException: not playing (disqualified):   103267
+           java.lang.RuntimeException: illegal move: too long:     2707
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:     2158
+                        java.util.concurrent.TimeoutException:       88
+             java.lang.RuntimeException: Player disqualified.:       87
+java.lang.RuntimeException: Player disqualified for scenario.:        1
+
+lastplace.Sheep.Crash.ScenarioSc.08:
+                          lastplace.Sheep.Crash.ScenarioSc.08:    24532   39804
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:    19764
+           java.lang.RuntimeException: illegal move: too long:     4768
+
+lee0814.Wolf.Crash:
+                                           lee0814.Wolf.Crash:    76688  142392
+
+lee0814.Wolf.Crash.ScenarioSc.01:
+                             lee0814.Wolf.Crash.ScenarioSc.01:     1085    5777
+       java.lang.RuntimeException: not playing (disqualified):      532
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      529
+             java.lang.RuntimeException: Player disqualified.:       12
+                        java.util.concurrent.TimeoutException:       12
+
+lee0814.Wolf.Crash.ScenarioSc.02:
+                             lee0814.Wolf.Crash.ScenarioSc.02:     1981    6279
+       java.lang.RuntimeException: not playing (disqualified):     1506
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      405
+             java.lang.RuntimeException: Player disqualified.:       35
+                        java.util.concurrent.TimeoutException:       35
+
+lee0814.Wolf.Crash.ScenarioSc.03:
+                             lee0814.Wolf.Crash.ScenarioSc.03:     1692    5979
+       java.lang.RuntimeException: not playing (disqualified):     1179
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      447
+             java.lang.RuntimeException: Player disqualified.:       33
+                        java.util.concurrent.TimeoutException:       33
+
+lee0814.Wolf.Crash.ScenarioSc.04:
+                             lee0814.Wolf.Crash.ScenarioSc.04:     2678   10276
+       java.lang.RuntimeException: not playing (disqualified):     2603
+             java.lang.RuntimeException: Player disqualified.:       34
+                        java.util.concurrent.TimeoutException:       34
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:        7
+
+lee0814.Wolf.Crash.ScenarioSc.05:
+                             lee0814.Wolf.Crash.ScenarioSc.05:      997    6769
+       java.lang.RuntimeException: not playing (disqualified):      684
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      285
+             java.lang.RuntimeException: Player disqualified.:       14
+                        java.util.concurrent.TimeoutException:       14
+
+lee0814.Wolf.Crash.ScenarioSc.06:
+                             lee0814.Wolf.Crash.ScenarioSc.06:     1464    5247
+       java.lang.RuntimeException: not playing (disqualified):     1312
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       90
+             java.lang.RuntimeException: Player disqualified.:       31
+                        java.util.concurrent.TimeoutException:       31
+
+lee0814.Wolf.Crash.ScenarioSc.07:
+                             lee0814.Wolf.Crash.ScenarioSc.07:    39783   63258
+       java.lang.RuntimeException: not playing (disqualified):    39536
+                        java.util.concurrent.TimeoutException:       88
+             java.lang.RuntimeException: Player disqualified.:       85
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       71
+java.lang.RuntimeException: Player disqualified for scenario.:        3
+
+lee0814.Wolf.Crash.ScenarioSc.08:
+                             lee0814.Wolf.Crash.ScenarioSc.08:    27008   38807
+       java.lang.RuntimeException: not playing (disqualified):    26842
+                        java.util.concurrent.TimeoutException:       83
+             java.lang.RuntimeException: Player disqualified.:       81
+java.lang.RuntimeException: Player disqualified for scenario.:        2
+
+leososcar.Wolf.Crash:
+                                         leososcar.Wolf.Crash:      654  129845
+
+leososcar.Wolf.Crash.ScenarioSc.01:
+                           leososcar.Wolf.Crash.ScenarioSc.01:       88    5179
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       88
+
+leososcar.Wolf.Crash.ScenarioSc.02:
+                           leososcar.Wolf.Crash.ScenarioSc.02:       92    4882
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:       92
+
+leososcar.Wolf.Crash.ScenarioSc.03:
+                           leososcar.Wolf.Crash.ScenarioSc.03:      101    4868
+       java.lang.IndexOutOfBoundsException: Index: 0, Size: 0:      101
+
+File versions
+
+
+Wilkinson	2015-04-22 22:49:11
+aStricker	2016-04-05 00:22:08
+adam1994	2016-04-04 22:48:57
+alexRajka	2016-04-04 14:25:33
+antonio	2016-03-24 20:37:57
+archambeault	2016-04-07 10:12:18
+badwolf	2016-04-04 22:43:21
+baseline	2016-03-22 14:42:31
+battleram	2016-04-05 03:03:50
+becerra	2016-04-05 00:44:44
+broscar	2016-04-05 05:41:06
+chamberlain	2016-04-01 10:11:21
+chan	2015-04-22 22:49:11
+chin	2015-04-22 22:49:11
+derhammer	2015-04-22 22:49:11
+dkhouri1	2016-03-24 22:18:46
+dodds	2016-03-30 08:47:22
+dori	2015-04-22 22:49:11
+fang	2016-04-06 00:17:37
+fiftydaysofpmn	2016-04-04 20:37:13
+fuhrmeister	2016-03-24 20:37:39
+gabu	2016-03-24 21:13:51
+gehr	2016-03-30 08:13:43
+gildea	2016-04-02 23:01:06
+godin	2016-04-07 10:08:20
+greene	2015-04-22 22:49:11
+guan	2016-04-05 12:27:56
+hancharik	2016-04-08 18:47:31 NEW
+iSheep	2016-04-07 11:28:27
+javathehutt	2016-04-04 23:29:54
+jennings	2016-03-24 21:27:22
+joe	2016-04-08 16:59:19 NEW
+kevinbaik	2016-04-05 12:20:00
+lammibalLector	2016-04-01 13:30:29
+lastplace	2016-04-06 14:04:43
+lee0814	2016-04-05 12:01:45
+leososcar	2016-04-04 22:02:48
+lobsterfest	2016-04-07 19:36:35
+lonewolf	2016-04-04 22:13:12
+macdonald	2016-04-04 14:43:28
+michaeltom	2016-04-05 01:12:33
+mihir1	2016-04-01 21:34:30
+moore	2016-04-04 20:15:42
+nelson	2016-04-05 20:40:16
+nicewonger	2016-03-27 22:35:41
+norante	2016-03-30 08:13:43
+peron	2016-04-04 20:55:13
+pyplayers	2016-03-30 08:47:22
+rashid	2016-04-04 17:30:37
+redila	2016-03-26 00:46:28
+ribau	2016-04-06 18:50:08
+rickyBobby	2016-04-05 01:50:55
+robert	2016-04-04 19:53:57
+savageDog	2016-03-24 20:58:59
+schott	2016-03-31 15:11:19
+shearluck	2016-04-05 12:40:58
+sheepman	2016-04-05 05:12:56
+song	2016-04-04 23:24:30
+steverohan10	2016-04-05 01:15:09
+tailor	2015-04-22 22:49:11
+thesnake	2016-03-31 17:15:19
+thestraysheep	2016-04-04 20:05:45
+vella	2016-04-07 10:46:53
+vickery	2015-04-22 22:49:11
+wereWolf	2016-04-07 13:53:48
+wilyecoyote	2016-04-07 14:31:20
+wumbo	2016-04-07 15:39:43
+zeke	2016-04-08 18:47:31 NEW
+zhang	2016-04-04 22:10:01
+zhang1	2016-04-01 11:57:17
+ziab	2016-04-01 21:53:26
+zielenski	2015-04-22 22:49:11
+
+Finished:2016-04-08 22:53.

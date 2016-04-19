@@ -1,0 +1,32 @@
+
+
+041121.txt
+thesnake.Wolf:    1.845
+thesnake.Wolf:    0.016
+score/time: 115
+
+041213.txt
+thesnake.Wolf:    1.836
+thesnake.Wolf:    0.574
+score/time: 3
+
+041215.txt
+thesnake.Wolf:    2.179
+thesnake.Wolf:    0.527
+score/time: 4
+
+
+
+
+041409.txt
+thesnake.Wolf:    2.143
+thesnake.Wolf:    0.524
+score/time: 4
+
+041509.txt
+thesnake.Wolf:    2.111
+thesnake.Wolf:    0.100
+score/time: 21
+
+
+Like any good engineering, we need a TLA OPA overall programming assessment the "kung fu" score
